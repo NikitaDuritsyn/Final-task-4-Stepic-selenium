@@ -1,2 +1,2 @@
-# Final-task-4-Stepic-selenium
-Final task 4 Stepic selenium
+# stepik_final_task_4_module
+Часть 4. Финальное задание. Здесь находится финальное задание для курса на платформе stepik.org по курсу "Автоматизация тестирования с помощью Python и Selenium.
